@@ -1,2 +1,3 @@
 # Firstrepositry
-this is first repo 
+First repo to be added to git hub 
+now i will add files from git to github 
